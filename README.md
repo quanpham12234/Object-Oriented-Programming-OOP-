@@ -1,2 +1,2 @@
 # Object-Oriented-Programming-OOP
-UIT_Exercise
+Self-study (28Tech)
